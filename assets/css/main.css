@@ -685,7 +685,7 @@ a:active {
 
 /*=============== FOOTER ===============*/
 .footer{
-    background-color: hsl(0deg 0% 78.54%);
+    background-color: #d5d4d4;
     color: var(--grey-clr);
 }
 
@@ -714,7 +714,7 @@ a:active {
 }
 
 .footer-subtitle{
-    color: var(--grey-clr);
+    color: hsl(0deg 100% 50%);
     margin-bottom: 1rem;
 }
 
@@ -905,3 +905,6 @@ a:active {
         margin-right: auto;
     }
 }
+
+
+
